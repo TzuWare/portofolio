@@ -11,7 +11,7 @@ but the catch is our code is secretly Track them and send all of the user to our
 and then we gonna report all of that list of user to roblox
 
 ### Does this really works?
-Yes, it is work we already catch 541 predators trying to join our roblox game and there will be more to come}
+Yes, it is work we already catch 541 predators trying to join our roblox game and there will be more to come
 
 ### Why Are U Guys Do This?
 As i said me and our team really care about children getting harm by all of this predators and we want to make sure roblox is a safe place for children
