@@ -9,22 +9,10 @@ a {
   color: #58a6ff;
 }
 
-.wrapper {
-  background-color: #161b22 !important;
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 0 15px rgba(0,0,0,0.3);
-}
-
 h1, h2, h3 {
   color: #ffffff;
 }
 
-img {
-  border-radius: 8px;
-}
-
-/* 🧩 Custom profile layout */
 .profile-header {
   display: flex;
   align-items: flex-start;
