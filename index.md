@@ -1,38 +1,17 @@
----
----
+# TzuWare
 
-<link rel="stylesheet" href="/assets/css/style.css">
+### E.R.A.S.E
+E.R.A.S.E is an abbreviation of ERP REMOVAL AND SAFETY ENGINE which is made to make sure children that play roblox doenst met any predators
+This System is here because of the hardwork of our team E.R.A.S.E Softworks LLC
 
-<div class="profile-header">
-  <img src="/assets/img/pfp.png" alt="Profile" class="pfp">
-  <div class="profile-text">
+### How does it work?
+Our Team will make a fake condo(porn) game on roblox but it wasnt really a condo game
+our team mostly just put a black screen and a time on there with the text "Wait to be teleported to the real game"
+but the catch is our code is secretly Track them and send all of the user to our discord webhook
+and then we gonna report all of that list of user to roblox
 
-<h1>TzuWare</h1>
+### Does this really works?
+Yes, it is work we already catch 541 predators trying to join our roblox game and there will be more to come
 
-<h3>E.R.A.S.E</h3>
-<p>
-E.R.A.S.E is an abbreviation of ERP REMOVAL AND SAFETY ENGINE which is made to make sure children that play roblox doesn't meet any predators.  
-This system is here because of the hard work of our team, E.R.A.S.E Softworks LLC.
-</p>
-
-<h3>How does it work?</h3>
-<p>
-Our team will make a fake condo (porn) game on Roblox, but it isn't really a condo game.  
-Our team mostly just puts a black screen and a timer with the text "Wait to be teleported to the real game".  
-But the catch is our code secretly tracks them and sends all of the user info to our Discord webhook.  
-Then we report all of those users to Roblox.
-</p>
-
-<h3>Does this really work?</h3>
-<p>
-Yes, it works. We've already caught 541 predators trying to join our Roblox game, and there will be more to come.
-</p>
-
-<h3>Why Are U Guys Doing This?</h3>
-<p>
-As I said, me and our team really care about children getting harmed by these predators,  
-and we want to make sure Roblox is a safe place for children.
-</p>
-
-  </div>
-</div>
+### Why Are U Guys Do This?
+As i said me and our team really care about children getting harm by all of this predators and we want to make sure roblox is a safe place for children
