@@ -3,6 +3,10 @@
 
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<div class="profile-header">
+  <img src="/assets/img/pfp.png" alt="Profile" class="pfp">
+  <div class="profile-text">
+  
 # TzuWare
 
 ### E.R.A.S.E
@@ -20,3 +24,6 @@ Yes, it is work we already catch 541 predators trying to join our roblox game an
 
 ### Why Are U Guys Do This?
 As i said me and our team really care about children getting harm by all of this predators and we want to make sure roblox is a safe place for children
+
+  </div>
+</div>
